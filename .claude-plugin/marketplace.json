@@ -1,0 +1,15 @@
+{
+  "name": "skills-es",
+  "description": "Skills en español para Claude Code, Claude y Cowork",
+  "owner": {
+    "name": "CBGR Studios",
+    "email": "mail@cbgrstudios.com"
+  },
+  "plugins": [
+    {
+      "name": "skills-es",
+      "source": "./plugins/skills-es",
+      "description": "Correos formales, presupuestos con IVA e IRPF, calendario fiscal AEAT y buscador del BOE."
+    }
+  ]
+}

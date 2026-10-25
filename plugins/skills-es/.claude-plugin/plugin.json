@@ -1,0 +1,23 @@
+{
+  "name": "skills-es",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://skillses.cbgrstudios.com",
+  "supportUrl": "mailto:mail@cbgrstudios.com",
+  "displayName": "SkillsES",
+  "version": "1.0.0",
+  "description": "Skills gratuitas en español para España: correos, presupuestos, calendario fiscal y BOE.",
+  "author": {
+    "name": "CBGR Studios",
+    "email": "mail@cbgrstudios.com",
+    "url": "https://skillses.cbgrstudios.com"
+  },
+  "homepage": "https://skillses.cbgrstudios.com",
+  "license": "MIT",
+  "keywords": [
+    "español",
+    "españa",
+    "skills",
+    "autónomos",
+    "pymes"
+  ]
+}
