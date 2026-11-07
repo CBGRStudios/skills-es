@@ -21,6 +21,9 @@ irm https://skillses.cbgrstudios.com/instalar.ps1 | iex
 | `presupuesto-es` | Genera presupuestos claros con IVA, retención de IRPF, condiciones de pago y validez, listos para enviar en Word o PDF. |
 | `calendario-fiscal-es` | Te dice qué modelos de Hacienda te tocan según tu actividad y cuándo vencen, con recordatorios en tu calendario. |
 | `boe-es` | Consulta el sumario diario y la legislación consolidada del BOE con la API oficial y cita el artículo exacto. |
+| `alquiler-vivienda-es` | Redacta o revisa contratos de alquiler según la LAU vigente: duración, prórrogas, fianza, subida con el IRAV, gastos, reparaciones y zonas tensionadas, con el artículo de cada regla. |
+| `nomina-es` | Explica tu nómina línea a línea, comprueba que la Seguridad Social y el IRPF cuadran con los tipos de 2026 y prepara las dudas para tu empresa. |
+| `verifactu-es` | Te dice si te afecta Verifactu, desde cuándo (con el aplazamiento anunciado), qué cambia en tus facturas y qué preguntar a tu proveedor de software. |
 
 ## Pack Pro (9 €/mes)
 - **Escritos a la Administración**: Redacta solicitudes, alegaciones y recursos de reposición o alzada con la estructura del artículo 66 de la Ley 39/2015.

@@ -9,7 +9,7 @@
     {
       "name": "skills-es",
       "source": "./plugins/skills-es",
-      "description": "Correos formales, presupuestos con IVA e IRPF, calendario fiscal AEAT y buscador del BOE."
+      "description": "Correos formales, presupuestos con IVA e IRPF, calendario fiscal AEAT, buscador del BOE, Verifactu, nóminas y contratos de alquiler."
     }
   ]
 }
